@@ -11,7 +11,7 @@ Sou um programador, técnico em eletrônica e ~~metido a~~ designer de Recife, P
 -   :guitar: Arranho no violão e na guitarra
 -   :man: Pronomes: ele/dele
 
-<h3>O que eu uso para codar</h3>
+<h3>Algumas tecnologias que uso</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
