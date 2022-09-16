@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/uandersonricardo/uandersonricardo/main/resources/header.svg">
 <h2 align='center'>Opa, tudo bom? Me chamo Uanderson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uandersonricardo&theme=dark&show_icons=true">](https://metrics.lecoq.io/uandersonricardo?template=classic)
-
 Sou um programador, técnico em eletrônica e ~~metido a~~ designer de Recife, Pernambuco.
 
 -   :mortar_board: Graduando em Engenharia da Computação na <a href="https://www.ufpe.br/">UFPE</a>
@@ -49,13 +47,12 @@ Sou um programador, técnico em eletrônica e ~~metido a~~ designer de Recife, P
 
 <h3>Como me encontrar</h3>
 <p align="left">
-  <a href="https://www.facebook.com/uandersonricardofs"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"></a>
-  <a href="https://www.instagram.com/uandersonrfs/"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"></a>
-  <a href="https://twitter.com/uandersonrfs"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"></a>
   <a href="https://www.linkedin.com/in/uandersonrfs/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"></a>
   <a href="https://discord.com/users/199709865986359296"><img alt="Discord" title="Discord" height="32" width="32" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667"></a>
   <a href="https://open.spotify.com/user/22wsyp3dvae7c4ms5bdp2haqi?si=FfLKzVpQTk-k2TZr42AN4w"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667"></a>
   <a href="https://cin.ufpe.br/~urfs/"><img alt="Site pessoal" title="Site pessoal" height="32" width="32" src="https://camo.githubusercontent.com/8c25ab07b62e602edf324911042fd70196a308013f736d404fb830e3a765c194/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73616d73756e675f696e7465726e65742e737667"></a>
   <a href="mailto:uandersonrfs@gmail.com"><img alt="E-mail" title="E-mail" height="32" width="32" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"></a>
+  <a href="https://twitter.com/uandersonrfs"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"></a>
+  <a href="https://www.instagram.com/uandersonrfs/"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"></a>
   
 </p>
