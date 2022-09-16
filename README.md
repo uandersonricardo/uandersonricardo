@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/uandersonricardo/uandersonricardo/83b1b60cba8db9a7199b1fb0b0c8d08101261705/resources/header.svg">
+<img src="https://raw.githubusercontent.com/uandersonricardo/uandersonricardo/main/resources/header.svg">
 <h2 align='center'>Opa, tudo bom? Me chamo Uanderson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uandersonricardo&show_icons=true">](https://metrics.lecoq.io/uandersonricardo?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uandersonricardo&theme=dark&show_icons=true">](https://metrics.lecoq.io/uandersonricardo?template=classic)
 
 Sou um programador, técnico em eletrônica e ~~metido a~~ designer de Recife, Pernambuco.
 
@@ -13,31 +13,34 @@ Sou um programador, técnico em eletrônica e ~~metido a~~ designer de Recife, P
 
 <h3>Algumas tecnologias que uso</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white"/>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Rails" src="https://img.shields.io/badge/Rails-%23CC0000.svg?&style=flat-square&logo=ruby-on-rails&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express-%23404d59.svg?&style=flat-square&logo=express&logoColor=%2361DAFB"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/Unity%20-%23000000.svg?&style=flat-square&logo=unity&logoColor=white"/>
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Postgres" src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
+  <img alt="ChakraUI" src="https://img.shields.io/badge/Chakra-%234ED1C5.svg?&style=flat-square&logo=chakraui&logoColor=white"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Postgres" src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
