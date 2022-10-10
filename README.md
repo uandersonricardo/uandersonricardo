@@ -5,7 +5,7 @@ Sou um programador, técnico em eletrônica e ~~metido a~~ designer de Recife, P
 
 -   :mortar_board: Graduando em Engenharia da Computação na <a href="https://www.ufpe.br/">UFPE</a>
 -   :electric_plug: Técnico em Eletrônica pelo <a href="https://www.ifpe.edu.br/">IFPE</a>
--   :computer: Desenvolvedor na <a href="http://www.educandus.com.br/">Educandus</a>
+-   :computer: Desenvolvedor na <a href="https://www.hent.com.br/">Hent</a>
 -   :guitar: Arranho no violão e na guitarra
 -   :man: Pronomes: ele/dele
 
